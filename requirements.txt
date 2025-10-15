@@ -1,0 +1,7 @@
+streamlit
+requests
+pillow
+pytesseract
+pdf2image
+python-dotenv
+easyocr
